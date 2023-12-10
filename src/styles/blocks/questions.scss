@@ -91,6 +91,7 @@
     height: toRem(104);
     margin-top: toRem(20);
     padding-right: toRem(20);
+    resize: none;
 
     @include onTablet {
       height: toRem(201);
